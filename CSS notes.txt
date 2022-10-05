@@ -1,0 +1,18 @@
+CSS meaning ki- cascading style sheet
+
+Hex code colour kake bole?
+Ans: Jeitate 6 t number colour hishabe thake take hex code bole jemon- #7464d8
+
+(#) ei sign ke hash sign o bole and pound sign o bole
+
+style add korar khetre css e basic 3 ti jinish hocce -
+class, tag, id 
+
+css box model ki? (interview question)
+ans: ekta website er moddhe ekti element kototuku jayga nebe sheta define kore 5 ta jinish diye.
+
+1.Border
+2.width
+3.height
+4.margin
+5.padding

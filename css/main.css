@@ -1,0 +1,26 @@
+h1 {
+    background-color: brown;
+    height: 200px;
+}
+p b {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+}
+div p b {
+    color: blue;
+    background-color: black;
+}
+div span p b{
+    color: brown;
+    background-color: yellow;
+}
+img {
+width: 50%;
+}
+strong {
+   font-size: 5em;
+   font-family: Georgia;
+}
+#cutting {
+color: firebrick;
+}

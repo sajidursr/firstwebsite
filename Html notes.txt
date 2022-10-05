@@ -1,0 +1,110 @@
+All things about html will be written in this file-
+
+Html means= Hypertext markup language.
+
+Now what is hyper text stands for?
+
+Ans: It means the specific text is linked with a another pop up window. so basically it means a link is connected with the specific text and that's why it is called (hyper text)
+
+Now what is markup language?
+
+Ans: Markup language e basic 2 ba 3 ti jinish thake. jemon bangla shobdo o, aa, eirokom.
+ 
+so markup language er rules ase jemon protiti markup language start hobe less then sign diye(<) and shesh hobe getter then sign diye (>) jemon (<>) eivhabe.
+ 
+Ar ei sign er vhitore je word ta thakbe jemon p, b, br, eigula ekekta word. Basically eigula e markup language. abar markup language er shuru ei sign (<>) and shesh hoy ei sign (</>) diye.
+
+For example: <p> </p>, <b> </b>, <br> </br>, ei ekekta markup language. 
+
+What is heading?
+
+Ans: when a website highlight a text that is bigger than all other text then it's called heading.
+
+Now there are types of heading which is-
+1. h1
+2. h2
+3. h3
+4. h4
+5. h5
+6. h6
+
+Anchor tag oilo link building text jemon text er moddhe arekta link(jemon onno kuno website er link).
+Anchor tag starts with word a, For ex: <a> </a> like this. end eitar moddhe link create korar jonno 
+likhte hobe href="eikhane kuno ekta web page ba website er link dite hobe" <a> tag ti likha hoy hyper link create korar jonno.
+So basically it stands like this-
+
+<a href="the link" ar ei jaygay je text ta likhba ei text er bhitore ei link te thakbe </a>
+For ex: <a href="https://www.google.com/"> the text </a>
+
+Ekhon href er mane ki-
+
+word h means hypertext. ar href mane holo hyper text er reffrence. mane hyper text link ti kun jaygay jabe shetar reffrence. ei href="" ke bole html language er (attribute).
+
+Now what is src?
+Ans: src (attribute) use kora hoy image dekhanur jonno. ar ei src er mane holo image source mane image ta kun jayga theke utpotti hoye ashce.
+
+Ehon list tag er bibiron dewa hobe-
+
+Html e kuno kisur list create korar jonno list tag use korte hoy. list tag hoy 2 dhoroner first one holo ordered list ba overall list and second ta holo list item mane
+overall list er vhitore ki ki item thabe tar biboron. so-
+1. overall list tag
+2. list item tag
+
+Ar ei overall list tag er vhitorei  list item tag thake.
+
+for ex: 
+<ol>
+ <li>Alu 1kg</li>
+ <li>Piyaj 1kg</li>
+<ol>
+Ei tag gulu list akare web e show korar jonno use kora hoy. jemon ei alu and piyaj list akare show hobe web page e eivhabe-
+1. Alu 1kg
+2. piyaj 1kg
+
+Arekta tag ase unordered list. jeta start hoy ul diye jemon eivhabe-
+<ul>
+ <li>Bikale coaching</li>
+ <li>Rait dekhmu movie</li>
+</ul>
+
+So basically igu web page o number sara show oibo jemon eivhabe-
+.Bikale coaching
+.Rait Dekhmu movie
+
+E ul tag use korle number sara dekhaibo jemon olan dot diya. ar ol tag use korle kromik onushare number diya serial onujayi dekhaibo jemon 1, bade 2, pore 3 ola.
+Ar ei tag or bitre dekram amra arekta tag jelan ekta box or bitre kuno jinish rakha hoy. Er lai e tag gulare html language e (container) tag bole. Mane e tag 
+gulay tar vitre arekta tag haraiya rakhse ba dharon ba doriya rakhse.
+
+Semantic tag holo meaningfull tags. jemon for an ex: <strong> </strong>.... ei tag ti holo meaningfull tag jetar proirity ase. je tag gular madhomme kuno kisu mean 
+kore ederke semantic tag bole. jemon arekta ase section tag.
+
+Section tag ke o semantic tag bole, karon section tag dhara bujay kunu ekta particular jinish jemon- amar school e ami commerce section e pori, abar ami oidin tour 
+e gesilam sajek eita o ekta section jekhane specific vhabe sajek tour niye golpo ba biboron likha thabe. Tahole buja jay ei tag gula ekta meaningfull tag.
+
+Abar section er biporite ase division tag. But division tag ke semantic tag bola jabe na karon html e eita ke short form hishebe <div> </div> likha hoy. jar mane ei
+short form er jonno ei <div> kuno kisu mean kortese na. opor dike section ei tag ta ekta meaningfull word jar jonno eti semantic tag er moddhe pore.
+
+Html is a case insensitive language. like <H1> and <h1> is same. upper case letter and lower case letter dosen't matter.
+
+What is absolute link?
+ans: nijer website theke arekti website e user ke niye jawar jonno absolute link bebohar kora hoy. jemon href="https://www.facebook.com" eikhane user tumar nijer wesite theke ei link e click er maddhome facebook e chole jabe.
+
+what is relative link?
+Ans: nijer website er ek page theke arek page othoba nijer website e ek file theke arek file e user ke niye jawar jonno relative link use kora hoy. jemon amar website e ekti file ase index.html and arekti file ase about.html and ei index.html page theke about.html page e chole jawar jonno je link use kora hoy etikei relative link bole.
+
+Subscript tag kake bole?
+Ans: kuno chemical word likhar jonno use kora hoy jemon cos2...... eigula likhte subscript tag use kora hoy jemon <sub> </sub> ei tag diye likhle ei 2 ta nise thakbe.
+
+superscript tag kake bole?
+Ans: math tag eigula likhar jonno use kora hoy jemon a2+2ab+b2 ei shutro likhte superscript tag use kora hoy jemon <sup> </sup> ei tag diye likhle ei 2 ta upore thakbe.
+
+what is pre tag <pre>?
+Ans: kuno line jevhabe ase sheivhabe web page e display korar jonno pre tag use kora hoy.
+
+
+div is a block element- why?
+Ans: div tag is like a container. div kuno jaygay boshanu hole it takes the whole place. No matter oikhane jodi free space thake taile o she bolbe oi jayga tar. so basically div tag kuno area te use korle it takes the whole place.
+
+
+span <span> tag ei tag ekti inline container or element- why?
+ans: span tag jeikhane boshanu hoy she shudu oi jayga tutku ne jeta tar proyojon. tar proyojon er bairer jayga she neyna. 
