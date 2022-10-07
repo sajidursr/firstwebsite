@@ -21,3 +21,18 @@ git push -u origin main
 
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+
+
+
+git branch changes codes-
+
+git branch -m main developers
+git fetch origin
+git branch -u origin/developers developers
+git remote set-head origin -a
+
+
+
+git branches were a, b, d ,m.... more to come
