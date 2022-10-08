@@ -36,3 +36,8 @@ git remote set-head origin -a
 
 
 git branches were a, b, d ,m.... more to come
+
+
+
+git switching code to a new branch-
+
